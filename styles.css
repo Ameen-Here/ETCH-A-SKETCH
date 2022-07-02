@@ -20,6 +20,7 @@ main {
   height: 480px;
   width: 480px;
   background-color: whitesmoke;
+  display: flex;
 }
 
 .playground-tools {
@@ -42,4 +43,10 @@ button {
 
 button:hover {
   background-color: #495355;
+}
+
+.div16 {
+  height: 16px;
+  width: 16px;
+  background-color: whitesmoke;
 }
